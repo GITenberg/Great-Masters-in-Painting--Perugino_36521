@@ -1,0 +1,31 @@
+_repo: Great-Masters-in-Painting--Perugino_36521
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williamson, George Charles
+    aliases:
+    - Williamson, George C.
+    - Williamson, G. C. (George Charles)
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '38320'
+    url: http://www.gutenberg.org/2009/agents/38320
+description: ''
+gutenberg_issued: '2011-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36521'
+  lccn: '03001000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The great masters in painting and sculpture
+subjects:
+- !lcsh 'Perugino, approximately 1450-1523'
+- !lcc 'ND'
+title: Pietro Vannucci, called Perugino
+url: http://www.gutenberg.org/ebooks/36521
